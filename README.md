@@ -32,5 +32,5 @@ farmingfamily-sales-apps/
 
 ## 📞 Contact
 **Shop:** Farming Family  
-**Developer:** [Your Name]  
-**Start Date:** [Today's Date]
+**Developer:** Md. Muslim Uddin 
+**Start Date:** 04-February-2026
